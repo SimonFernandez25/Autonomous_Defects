@@ -1,0 +1,17 @@
+# Data Directories (Exclude large datasets/tiles)
+Meta_Atoms/
+results/
+figures/
+
+# Python / Notebook artifacts
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+
+# OS Specific
+.DS_Store
+Thumbs.db
+
+# Misc temp or non-source files
+*.txt
+*.csv
